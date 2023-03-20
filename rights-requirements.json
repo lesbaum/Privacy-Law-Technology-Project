@@ -1,0 +1,90 @@
+{
+    "Requirements":{
+
+        "Rt1": "Two or more designated methods for submitting requests, at a minimum a toll free number",
+        "Rt2": "If internet website, make it available to consumers to submit requests",
+        "Rt3": "Disclose and deliver the required information within 45 days",
+        "Rt4": "Should not require account creation",
+        "Rt5": "Verifiable request definition",
+        "Rt6": "Update policies every 12 months",
+        "Rt7-1": "In Privacy / California Policy, description of consumer right to delete",
+        "Rt7-2": "In Privacy / California Policy, description of consumer right to correct",
+        "Rt7-3": "In Privacy / California Policy, description of consumer right to know PI collection",
+        "Rt7-4": "In Privacy / California Policy, description of consumer right to know sell or sharing of PI",
+        "Rt7-5": "In Privacy / California Policy, description of consumer right to opt out of sale of PI",
+        "Rt7-6": "In Privacy / California Policy, description of consumer right to limit use of sensitive PI",
+        "Rt7-7": "In Privacy / California Policy, description of consumer right to not be discriminated",
+        "Rt8": "In Privacy / California Policy, categories of PI Collected",
+        "Rt9": "In Privacy / California Policy, categories of PI sold",
+        "Rt10":"In Privacy / California Policy, categories of PI disclosed",
+        "Rt11": "All handlers are informed of all requirements",
+        "Rt12": "Use verification data for verification only",
+        "Rt13": "DNSMPI link should be available",
+        "Rt14": "Respect Opt-Out request for 12 months atleast",
+        "Rt15": "May authorize another person solely to excersize rights"
+
+    },
+
+    "Rights": {
+        "100":{
+            "General Duties of Businesses that Collect PI (100)":{
+                "Rt3":[],
+                "Rt4":[],
+                "Rt6":[],
+                "Rt11":[],
+                "Rt12":[],
+                "Rt15":[]
+                
+            }
+        },
+        "105": {
+            "Right to Delete PI (105)": {
+                "Rt5":[],
+                "Rt7-1":[]
+            }
+        },
+        "106": {
+            "Right to Correct Inaccurate PI (106 CPRA)": {
+                "Rt5":[],
+                "Rt7-2":[]
+            }
+        },
+        "110": {
+            "Right to Know What PI is Being Collected (110)": {
+                "Rt1":[],
+                "Rt2":[],
+                "Rt5":[],
+                "Rt7-3":[],
+                "Rt8":[]            
+            }
+        },
+        "115": {
+            "Right to Know What PI is Being Sold or Shared (115)": {
+                "Rt1":[],
+                "Rt2":[],
+                "Rt5":[],
+                "Rt7-4":[],
+                "Rt9":[],
+                "Rt10":[]
+            }
+        },
+        "120": {
+            "Right to Opt-Out of Sale of PI (120)": {
+                "Rt5":[],
+                "Rt7-5":[],
+                "Rt13":[],
+                "Rt14":[]
+            }
+        },
+        "121": {
+            "Right to Limit Use and Disclosure of Sensitive PI (121 CPRA)": {
+                "Rt7-6":[]
+            }
+        },
+        "125": {
+            "Right of No Retaliation Following Exercise of Rights (125)": {
+                "Rt7-7":[]
+            }
+        }
+    }
+}

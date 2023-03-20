@@ -1,0 +1,36 @@
+{
+    "Requirements":{
+        "Rt1": "Name included of data collector",
+        "Rt2": "Email address included of data collector",
+        "Rt3": "Phone number included of data collector",
+        "Rt4": "Physical address included of data collector",
+        "Rt5": "In policy, a description of of what information is collected of children",
+        "Rt6": "In policy, stating how personal info can be made public by child",
+        "Rt7": "In Policy, state that child's data can be reviewed and deleted, or stopped entirely",
+        "Rt8": "Link or guide on how to accomplish data reviewal or deletion"
+    },
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                
+                "Rt1":[],
+                "Rt2":[],
+                "Rt3":[],
+                "Rt4":[]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[],
+                "Rt6":[]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[],
+                "Rt8":[]
+            }
+        }
+
+    }
+}
