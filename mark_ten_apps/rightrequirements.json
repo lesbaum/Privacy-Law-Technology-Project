@@ -1,0 +1,296 @@
+{
+  "123 Kids Academy": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": ["123 Kids Academy LLC"],
+          "Rt2": ["support@123KidsAcademy.com"],
+          "Rt3": [""],
+          "Rt4": ["2066 N Capitol Ave #1166 CA 95132"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "We do not sell the personal information of Consumers We actually know are less than 16 years of age"
+          ],
+          "Rt6": [
+            "unless We receive affirmative authorization (the 'right to opt-in') from either the Consumer who is between 13 and 16 years of age, or the parent or guardian of a Consumer less than 13 years of age"
+          ]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "If You have reason to believe that a child under the age of 13 (or 16) has provided Us with personal information, please contact Us with sufficient detail to enable Us to delete that information."
+          ],
+          "Rt8": [
+            "Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information"
+          ]
+        }
+      }
+    }
+  },
+  "iCivics": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["feedback@iCivics.org"],
+          "Rt3": [""],
+          "Rt4": ["1035 Cambridge Street, Suite 21B, Cambridge, MA 02141"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "Consistent with the Children's Online Privacy Protection Act of 1998 ('COPPA'), we will never knowingly request personally identifying information from anyone under the age of 13 without prior verifiable parental consent"
+          ],
+          "Rt6": [
+            "If a child under the age of 13 wishes to sign up for a user account on our Website, he or she must first obtain parental approval and provide a parent's email address for confirmation"
+          ]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "If you provide iCivics with personal information, you may access and edit this information at any time by visiting the “Edit Account” link at the top right corner of the Website"
+          ],
+          "Rt8": [
+            "If you would like to request deletion of your account, please email us at feedback@iCivics.org"
+          ]
+        }
+      }
+    }
+  },
+  "Chuggington": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": ["Herschend"],
+          "Rt2": ["info@hfecorp.com"],
+          "Rt3": [""],
+          "Rt4": [""]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "We may collect information such as your first and last name, home or other physical address, email address, telephone number, date of birth and other information that permits you to be contacted physically or online, and other information, including information about your interactions with us or others. You may also provide us information about others, e.g., when purchasing tickets or registering for an event. We may collect payment information when you transact with us. You may choose not to provide certain information to us but doing so may restrict your ability to use our Online Services or conduct certain business with Herschend."
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the previous calendar year, your Personally Identifiable Information for that company's direct marketing purposes; and b) a description of the categories of Personally Identifiable Information disclosed"
+          ],
+          "Rt8": [
+            "To obtain such information, please email your request to info@hfecorp.com."
+          ]
+        }
+      }
+    }
+  },
+  "Sesame Workshop": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["dotorgmail@sesame.org"],
+          "Rt3": ["212-595-3456"],
+          "Rt4": ["1900 Broadway, New York, New York, 10023, USA"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "Visitors can provide their first name, a friend’s first name and friend’s email address to send a feature of a Children’s Platform to the friend via email. We use such information only to fulfill the visitor’s request and do not store that information for any longer than reasonably necessary to send the relevant email. When visitors on our Children’s Platforms wish to sign up to receive our email newsletters, we will ask for a parent’s first name and email address. We will send a notification email to the parent and give the parent the option to decline the newsletter."
+          ],
+          "Rt6": [
+            "We do not make personal information collected from children publicly available nor do we enable children to so on our Platforms"
+          ]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "Parents may contact us (at dotorgmail@sesame.org) to review, update or delete any of their children’s personal information that we may have collected and to elect for us not to collect any additional personal information from their children."
+          ],
+          "Rt8": ["dotorgmail@sesame.org"]
+        }
+      }
+    }
+  },
+  "Amaya Kids": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [
+            "Information that is collected on our Websites by scripts from Google will also be available to Google"
+          ],
+          "Rt2": ["info@amayasoft.com"],
+          "Rt3": [""],
+          "Rt4": [""]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "Child users do not have the ability to provide any personal information when using the Games beyond what has collected automatically (as noted above)"
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "We do not make personal information collected from children publicly available nor do we enable children to so on our Platforms"
+          ],
+          "Rt8": ["info@amayasoft.com"]
+        }
+      }
+    }
+  },
+  "Mattel": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["service@mattel.com"],
+          "Rt3": ["800-524-8697"],
+          "Rt4": ["636 Girard Avenue East Aurora, NY 14052"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "We do not collect personal contact information from children at Mattel Services directed to children without the consent of a parent or legal guardian, except in limited circumstances authorized by law"
+          ],
+          "Rt6": [
+            "We do not knowingly sell the personal information of minors under 16 years of age."
+          ]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [""],
+          "Rt8": ["service@mattel.com"]
+        }
+      }
+    }
+  },
+  "Sagomini": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": ["Mixpanel, Unity"],
+          "Rt2": ["privacy@sagosago.com"],
+          "Rt3": ["(416) 703-6459"],
+          "Rt4": [
+            "Sago Sago Toys Inc. 171 John Street, 5th Floor Toronto, ON  M5T 1X3 CANADA"
+          ]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "We collect non-personal data indirectly from the following third-party analytics providers. These third parties do not share your user data; they are used to support the operation of our apps"
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "If you want to opt out of services, or review or delete you or your child’s information, please contact us at privacy@sagosago.com."
+          ],
+          "Rt8": ["privacy@sagosago.com"]
+        }
+      }
+    }
+  },
+  "ScratchJr": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["help@scratch.mit.edu"],
+          "Rt3": [""],
+          "Rt4": ["7315 Wisconsin Ave. 4th Floor West Bethesda, MD 20814"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so"
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "Deleting your information. You can delete your projects by deleting the App from your device."
+          ],
+          "Rt8": ["help@scratch.mit.edu"]
+        }
+      }
+    }
+  },
+  "Crayola": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["support@crayola.com"],
+          "Rt3": ["1-800-CRAYOLA"],
+          "Rt4": ["1100 Church Lane P.O. Box 431 Easton, PA 18044"]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "To play our apps we do not collect any personal data from you"
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": [
+            "Right of Deletion - You can ask a company to delete any information they may have about you"
+          ],
+          "Rt8": ["support@crayola.com"]
+        }
+      }
+    }
+  },
+  "BabyBus": {
+    "Rights": {
+      "312.2.4d(1)": {
+        "Necessary Contact Information of Data Collector(s)": {
+          "Rt1": [""],
+          "Rt2": ["privacy@babybus.com"],
+          "Rt3": [""],
+          "Rt4": [""]
+        }
+      },
+      "312.4d(2)": {
+        "Description of Data Collected and How to Make Information Public": {
+          "Rt5": [
+            "Email Address To create your account for the App as per your request With your consent"
+          ],
+          "Rt6": [""]
+        }
+      },
+      "312.4d(3)": {
+        "Parental Review and Deletion": {
+          "Rt7": ["You have the right to delete your personal information"],
+          "Rt8": ["by contacting us at privacy@babybus.com"]
+        }
+      }
+    }
+  }
+}
