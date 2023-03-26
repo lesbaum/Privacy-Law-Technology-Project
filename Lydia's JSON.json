@@ -1,0 +1,431 @@
+{
+    "Requirements":{
+        "Rt1": "Name included of data collector",
+        "Rt2": "Email address included of data collector",
+        "Rt3": "Phone number included of data collector",
+        "Rt4": "Physical address included of data collector",
+        "Rt5": "In policy, a description of of what information is collected of children",
+        "Rt6": "In policy, stating how personal info can be made public by child",
+        "Rt7": "In Policy, state that child's data can be reviewed and deleted, or stopped entirely",
+        "Rt8": "Link or guide on how to accomplish data reviewal or deletion"
+    },
+
+    "SMG Studio": {
+      "Rights":{
+          "312.4d(1)":{
+              "Necessary Contact Information of Data Collector(s)":{
+                  
+                  "Rt1":[
+                    "SMG Studio"
+                  ],
+                  "Rt2":[
+                    "support@smgstudio.com"                  
+                  ],
+                  "Rt3":[
+                    ""
+                  ],
+                  "Rt4":[
+                    "22 Mountain St, Ultimo, NSW, 2008 Australia"
+                  ]
+              }
+          },
+          "312.4d(2)":{
+              "Description of Data Collected and How to Make Information Public":{
+                  "Rt5":[
+                    "Users may be asked for, as appropriate, name, email address, mailing address, phone number... We may collect non-personal identification information about Users [which] may include the browser name, the type of computer and technical information about Users means of connection to our Site"
+                  ],
+                  "Rt6":[
+                    ""
+                  ]
+              }
+          },
+          "312.4d(3)":{
+              "Parental Review and Deletion":{
+                  "Rt7":[
+                    ""
+                  ],
+                  "Rt8":[
+                    ""
+                  ]
+              }
+          }
+  
+      }
+  },
+  "RV AppStudios": {
+    "Rights":{
+          "312.4d(1)":{
+              "Necessary Contact Information of Data Collector(s)":{
+                  
+                  "Rt1":[
+                    "RV AppStudios"
+                  ],
+                  "Rt2":[
+                    "app_support@rvappstudios.com"
+                  ],
+                  "Rt3":[
+                    ""
+                  ],
+                  "Rt4":[
+                    "848 N. Rainbow Blvd. #5467 Las Vegas, NV 89107"
+                  ]
+              }
+          },
+          "312.4d(2)":{
+              "Description of Data Collected and How to Make Information Public":{
+                  "Rt5":[
+                    "We use technologies like cookies on our website (small files stored by your browser or operating system), web beacons, or unique device identifiers to anonymously identify your computer or device. Our systems also logs information like your browser, operating system, IP address and anonymous usage data"
+                  ],
+                  "Rt6":[
+                    ""
+                  ]
+              }
+          },
+          "312.4d(3)":{
+              "Parental Review and Deletion":{
+                  "Rt7":[
+                    ""
+                  ],
+                  "Rt8":[
+                    ""
+                  ]
+              }
+          }
+  
+      }
+  },
+  "TocaBoca": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                
+                "Rt1":[
+                  "TocaBoca"
+                ],
+                "Rt2":[
+                  "dpo@spinmaster.com"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "Lumaparksvägen 9120 31 Stockholm Sweden"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "we do not collect anything that is personally identifiable in our apps for children."
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  ""
+                ],
+                "Rt8":[
+                  "If you want to opt out of services, or review or delete your information, please contact us at dpo@spinmaster.com."
+                ]
+            }
+        }
+
+    }
+  },
+  "Crab's SW Studio": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                
+                "Rt1":[
+                  "Crab's SW Studio"
+                ],
+                "Rt2":[
+                  "info@crabs.hu"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "Kismaros Liget u. 30. 2623 HUNGARY"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "We may collect non-personal information about your use of our Apps and aggregated information regarding the usages of the Apps. 'Non-Personal Information' means information that is of an anonymous nature, such as information about the way you use the Applications."
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  ""
+                ],
+                "Rt8":[
+                  ""
+                ]
+            }
+        }
+
+    }
+  },
+  "MGA Entertainment": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "MGA"
+                ],
+                "Rt2":[
+                  "privacy@mgae.com"
+                ],
+                "Rt3":[
+                  "1-800-222-4685"
+                ],
+                "Rt4":[
+                  "9220 Winnetka Avenue Chatsworth, CA 91311"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "the child’s first and last name, mailing address, gender, date of birth, email address and phone number"
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  "Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the children for whom they provided consent or authorization."
+                ],
+                "Rt8":[
+                  "Parents or legal guardians who have questions about personal information that may have been submitted by a child, or to exercise the rights as set forth above, should email us at privacy@mgae.com, or contact us toll-free at: 1-800-222-4685."
+                ]
+          }
+        }
+  
+    }
+  },
+  "Cartoon Network": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "Cartoon Network"
+                ],
+                "Rt2":[
+                  "wmprivacy@warnermedia.com"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "1050 Techwood Drive Atlanta, GA 30318"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "We might need to ask permission from your adult before you can give us this information.  This information can include things like: your first name, your location  your email address, your username, your telephone number, your home address, numbers that identify your account or your electronic device, a photo or video of you, a voice recording, our opinions or views on our Services or that of our partners your entry to one of our contests"
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  "You can request details of the information we hold, along with a copy of your information, and the correction of any errors in your information... The right, in certain circumstances, to ask for your information to be deleted...You (or your adult) can withdraw consent at any time in respect of any processing of information which is based upon a consent.  "
+                ],
+                "Rt8":[
+                  ""
+                ]
+          }
+        }
+  
+    }
+  },
+  "ABCYA": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "ABCYA"
+                ],
+                "Rt2":[
+                  "support@abcya.com"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "4 Richmond Sq Suite 55 Providence, Rhode Island 02906"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "The Platform may occasionally collect a Child's first name and online contact information (typically, an e-mail address) [but] does not generally collect name, address, or other contact information from Children."
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  "Parents have the right to review and request that ABCya delete any Personal Information that the Platform has collected and retained about their Child."
+                ],
+                "Rt8":[
+                  "If you would like to request that ABCya delete any Personal Information we may have about your Child (such as first name and contact information prior to the Platform's one-time use) or if you would like to request that the Platform make no further collection of Personal Information from your Child, please contact ABCya at support (at) abcya (dot) com."
+                ]
+          }
+        }
+  
+    }
+  },
+  "Science Museum Group": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "Science Museum Group"
+                ],
+                "Rt2":[
+                  "dave.patten@sciencemuseum.org.uk"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "we may collect the following information... excluding information about children unless provided by that individual"
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[],
+                "Rt8":[
+                  "To exercise your rights [to review or delete personal data], please use the contact details provided under the ‘Contact Us about your personal information’ section below."
+                ]
+          }
+        }
+  
+    }
+  },
+  "Bookful": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "Bookful"
+                ],
+                "Rt2":[
+                  "support@inceptionxr.com"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "38 HaBarzel St., Bldg. A, Fl. 6, Tel Aviv 6971054"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "your child’s age range... Bookful is a kids app therefore we cannot collect any PSI from our users. No matter their age."
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  "You may edit or delete information in your user account. You may request access to the personal information that we have collected on your account, via support and ask us to change or delete it."
+                ],
+                "Rt8":[
+                  "Delete personal information and account- we have a defined process with our support team, all they need to do is contact our support and let us know."
+                ]
+          }
+        }
+  
+    }
+  },
+  "InBento": {
+    "Rights":{
+        "312.4d(1)":{
+            "Necessary Contact Information of Data Collector(s)":{
+                  
+                "Rt1":[
+                  "InBento"
+                ],
+                "Rt2":[
+                  "inbento@afterburn.games"
+                ],
+                "Rt3":[
+                  ""
+                ],
+                "Rt4":[
+                  "Afterburn Lukasz Spierewka Orla 23/34 90-317 Lodz, Poland"
+                ]
+            }
+        },
+        "312.4d(2)":{
+            "Description of Data Collected and How to Make Information Public":{
+                "Rt5":[
+                  "We do not knowingly collect personally identifiable information from anyone under the age of 18."
+                ],
+                "Rt6":[
+                  ""
+                ]
+            }
+        },
+        "312.4d(3)":{
+            "Parental Review and Deletion":{
+                "Rt7":[
+                  "If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers."
+                ],
+                "Rt8":[
+                  "If you are a parent or guardian and you are aware that your Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers."
+                ]
+          }
+        }
+  
+    }
+  }                                               
+}
