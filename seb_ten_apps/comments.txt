@@ -1,0 +1,54 @@
+This document includes comments about each privacy policies.
+This includes reasons for blank statements in the JSON to other additional information
+that I thought would be important to know
+
+
+Path of Giants (Journey Games)
+    -These guys state they do not collect data from children under the age of 13 so
+    I left the rt6 blank
+    
+    -No actual names provied, but they include an email and physical address (because I assume their
+    support team is quite large)
+
+wollstonecraft (hololabs studio inc)
+    -Super small privacy policy. They say they do not collect information from children and adults but note 
+    that "anonymous information may be shared with third parties to help us run and maintain our services."
+
+    -I added the questions section in their privacy policy to rt8.
+    Even though it is not guide, it does give an option where you can ask about stuff.
+
+Prodigy (prodigy) 
+    - for rt5 I added that specific line because they use student and child in a weird way. They do 
+    differentiate children and student in one section, but don't say much about that. Since they categorize their users
+    into three categories (teachers, students, and parents) I assume that students can also be children and 
+    anything they say about student data can also be said about childrens data.
+
+    -for rt6, there are actually three bulletpoints, but I only included the first one due to the length of content
+
+Balloon Crush
+    -They do specifically state that they do not collect from children, but there is a 
+    portion where it basically says yo we got some third party stuff and we have no control and take no 
+    responsibility for their practices which is a bit weird. I put a small bit in the rt6 section. By far the most sus out of
+    the ones I have done so far.
+
+Crescent Moon Games
+    -They also have a similar third party warning in their privacy policy. This is also the 
+    first policy that has been on a word doc out of the ten I have received. They say for users in general, they 
+    strive to keep personal information safe using commercially acceptable means, but also note that the internet is not 100% secure and safeso no guarentees.
+
+Adventure Academy
+    -One thing I wasnt sure of was whether or not to add their PO box in the physical address section in rt3. I did anyways just in case.
+
+Animal Jam
+    -Another PO box address one. Also these guys list all the third parties they collab with which was quite intersting.
+
+IDZ Digital
+    -First one I think I have enocountered from a different hosting country. Pretty short policy (done in php)
+
+Infinity Games
+    -These guys do not provide a physical address. THey also aren't really specific on a way to delete data.
+
+Entertainment One  
+    -By far one of the more complete privacy poilicies I have read. They go display 
+    all the ways they use childrens information that I could not fit into this model.
+    Children privacy policy is the first thing listed on their privacy policy document which was quite nice to see.
