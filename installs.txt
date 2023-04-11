@@ -1,0 +1,5 @@
+pip3  install -U spacy
+pip3 install -U pip setuptools wheel
+pip3 install -U spacy
+pip3 install jupyter              
+python -m spacy download en_core_web_sm               
