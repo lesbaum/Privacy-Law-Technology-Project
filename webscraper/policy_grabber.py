@@ -15,4 +15,7 @@ for index, row in apps.iterrows():
     html = html_bytes.decode("utf-8")
     print(html)
 
+    # append as column to the row
+    # export the new dataframe to the csv
+
 #TODO: Change write to cvs to also have column headers and not split on the commas, get rid of duplicates in data, add these html results to data by appending to dataframe
