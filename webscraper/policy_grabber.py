@@ -2,7 +2,7 @@ from urllib.request import Request, urlopen
 import pandas as pd
 import numpy as np
 
-apps = pd.read_csv("./data.csv", nrows = 3)
+apps = pd.read_("./data.csv", nrows = 3)
 
 for index, row in apps.iterrows(): 
     print(row['privacyPolicy'])

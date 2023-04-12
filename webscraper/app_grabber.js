@@ -1,21 +1,5 @@
-import { appendFileSync } from "fs";
 import gplay from "google-play-scraper";
-
-class App {
-    constructor(title = "", developer="", privacyPolicy="") {
-        this.title = title;
-        this.developer = developer;
-        this.privacyPolicy = privacyPolicy;
-    }
-    saveAsCSV() {
-        const csv = `${this.title},${this.developer},${this.privacyPolicy}\n`;
-        try {
-            appendFileSync("./data.csv", csv);
-        } catch (err) {
-            console.error(err);
-        }
-    }
-}
+import xlsx from 'xlsx'
 
 const startApp = async () => {
     
@@ -53,13 +37,14 @@ const startApp = async () => {
       var results = [...result1, ...result2, ...result3, ...result4]
       
       console.log(results.length)
-      
-      results.forEach(test);
-      
-      function test(item) {
-        var app = new App(item.title, item.developer, item.privacyPolicy);
-        app.saveAsCSV();
-      }
+
+      let binaryWS = xlsx.utils.json_to_sheet(results)
+
+      var wb = xlsx.utils.book_new()
+
+      xlsx.utils.book_append_sheet(wb, binaryWS, 'Binary values')
+
+      xlsx.writeFile(wb, 'testData.xlsx');
 }
 
 startApp();
