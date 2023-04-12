@@ -2,20 +2,34 @@ from urllib.request import Request, urlopen
 import pandas as pd
 import numpy as np
 
-apps = pd.read_("./data.csv", nrows = 3)
+apps = pd.read_excel("./testTestPrivacy.xlsx")
+privacyPolicies = []
 
-for index, row in apps.iterrows(): 
+for index, row in apps.iterrows():
     print(row['privacyPolicy'])
+    print(row['Raw Privacy Policy'])
+    if (not str(row["Raw Privacy Policy"]) == 'nan'): 
+        privacyPolicies.append(row["Raw Privacy Policy"])
+        continue
+    if row["title"] == "Pix123: Color by Number Games" or row['title'] == 'Univerzoom 3D Discover Scales': 
+        privacyPolicies.append("Illegal excel character")
+        continue
     url = Request(
-        url = row['privacyPolicy'],
-        headers={'User-Agent': 'Mozilla/5.0'}
-    )
-    page = urlopen(url)
+            url = row['privacyPolicy'],
+            headers={'User-Agent': 'Mozilla/5.0'}
+        )
+    try:
+        page = urlopen(url)
+    except:
+        privacyPolicies.append("Couldn't access link")
+        continue
     html_bytes = page.read()
-    html = html_bytes.decode("utf-8")
-    print(html)
+    try:
+        html = html_bytes.decode("utf-8")
+    except: 
+        html = "Couldn't decode"
+    privacyPolicies.append(html)
 
-    # append as column to the row
-    # export the new dataframe to the csv
+apps["Raw Privacy Policy"] = privacyPolicies
 
-#TODO: Change write to cvs to also have column headers and not split on the commas, get rid of duplicates in data, add these html results to data by appending to dataframe
+apps.to_excel("./testTestPrivacy.xlsx")

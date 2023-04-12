@@ -1,5 +1,5 @@
 import gplay from "google-play-scraper";
-import xlsx from 'xlsx'
+import xlsx from 'xlsx';
 
 const startApp = async () => {
     
